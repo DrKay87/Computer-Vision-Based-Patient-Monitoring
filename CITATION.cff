@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: Patient Movement and Breathing Signal Detection from Video
+authors:
+  - family-names: Khuram
+message: "If you use this repository, please cite the associated work or this repository."
+type: software
+year: 2026
+license: MIT

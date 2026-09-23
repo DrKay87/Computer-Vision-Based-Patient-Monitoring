@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+
+# Data and outputs
+*.mp4
+*.avi
+*.mov
+*.mkv
+data/raw/
+data/processed/
+outputs/*.png
+outputs/*.jpg
+outputs/*.csv
+outputs/*.npy
+outputs/*.pkl
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
